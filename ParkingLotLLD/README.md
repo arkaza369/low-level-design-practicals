@@ -34,7 +34,7 @@ two-Wheeler, four-wheeler, large.
 23. SpotType [Enum]
 24. ParkingSpotManager
 
-## Applied Design Patterns:
+## Step3: Applied Design Patterns:
 ### Factory Method Pattern
 Vehicle [abstract]<br>
 TwoWheeler [extends Vehicle]<br>
