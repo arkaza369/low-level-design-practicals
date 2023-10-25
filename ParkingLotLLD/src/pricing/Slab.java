@@ -1,3 +1,5 @@
+package pricing;
+
 public class Slab {
     int min;
     int max;

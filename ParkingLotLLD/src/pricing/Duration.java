@@ -1,4 +1,4 @@
-package price;
+package pricing;
 
 public class Duration {
     int days;

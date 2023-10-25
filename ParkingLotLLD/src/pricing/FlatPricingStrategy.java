@@ -1,11 +1,11 @@
-package price;
+package pricing;
 
 import enums.VehicleType;
 
 import java.util.Map;
 
 public class FlatPricingStrategy implements PricingStrategy{
-    Map<VehicleType, Double> dailyrate;
+        Map<VehicleType, Double> dailyrate;
     Map<VehicleType, Double> hourlyrate;
     public void init(){
         hourlyrate.put(VehicleType.TWOWHEELER, 20.0);
