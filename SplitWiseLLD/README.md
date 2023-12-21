@@ -49,3 +49,5 @@ ExpenseBuilderImpl implements ExpenseBuilder<br>
 ExpenseController[create expense]<br>
 
 ## UML
+![Splitwise.jpeg](Splitwise.jpeg)
+
